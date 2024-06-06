@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Manickavela</h1>
-<h3 align="center">MLOPs at Uniphore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manickavela29&label=Profile%20views&color=0e75b6&style=flat" alt="manickavela29" /> </p>
 
